@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Builder K-I-F",
+  "description": "Aplikasi pembuat prompt AI terstruktur untuk pemula dengan rumus Konteks, Instruksi, dan Format (K-I-F). Ubah ide sederhana menjadi prompt yang lebih terarah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
